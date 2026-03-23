@@ -18,3 +18,13 @@ IG - > 個人檔案 -> 右上角三條線 -> 帳號管理中心 -> 你的資訊�
 把本程式放到`followers_and_following`中，並利用編輯軟體將 第3行 及 第6行 的檔案位置設定到前述之地址<br>
 (例如：`with open('connections\\followers_and_following\\followers_1.json', 'r') as f:`)<br>
 運行即可。<br>
+<br>
+然後你會獲得
+```
+Total following: 128
+Total followers: 109
+Not following back: 49
+eggtatorship_party: https://www.instagram.com/_u/eggtatorship_party
+tcivs_sa_8th: https://www.instagram.com/_u/tcivs_sa_8th
+......
+```
